@@ -1,0 +1,1 @@
+{"name":"affiliate-marketing-platform","version":"1.0.0","private":true,"description":"Affiliate product showcase with link tracking and admin controls","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"}}
